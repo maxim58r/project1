@@ -1,2 +1,3 @@
 Hello Git
 Add new information
+New line
