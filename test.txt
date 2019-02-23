@@ -1,4 +1,4 @@
 Hello Max GitHub
 Add new information
-New line WRONG
+New line
 How work Git
